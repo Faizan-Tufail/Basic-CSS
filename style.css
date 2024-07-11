@@ -1,0 +1,53 @@
+*{
+    background-color: rgb(56, 54, 54);
+}
+
+.starting{
+    margin: 20px auto;
+    width: 600px;
+    text-align: center;
+    border: 6px ridge rgb(110, 98, 98);
+    border-radius: 20px;
+}
+
+.starting h1{
+    color: white;
+    font-size: 40px;
+    background-color: rgb(148, 177, 177);
+    width: 300px;
+    border-radius: 50px;
+    padding:7px;
+    text-align: center;
+    margin:16px auto;
+}
+
+.starting p{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.starting p b{
+    color: rgb(250, 137, 9);
+    text-decoration: underline;
+    font-size: larger;
+}
+
+
+.external{
+
+    margin:23px auto;
+    width: 650px;
+    text-align: center;
+    background-image: url(gradient.jpeg);
+    border-radius: 10px;
+    color: whitesmoke;
+    padding: 8px;
+    border: 8px groove rgb(255, 255, 255);
+    
+}
+
+#external{
+    background: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
